@@ -1,0 +1,23 @@
+{
+  "name": "healthinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnfrank/healthinfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnfrank/healthinfo/issues"
+  },
+  "homepage": "https://github.com/cnfrank/healthinfo#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
